@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Available</fullName>
+        <default>false</default>
+        <label>Available</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Interested Party</fullName>
+        <default>false</default>
+        <label>Interested Party</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sold</fullName>
+        <default>false</default>
+        <label>Sold</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trade In Processing</fullName>
+        <default>false</default>
+        <label>Trade In Processing</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Sale</fullName>
+        <default>true</default>
+        <label>Sale</label>
+    </customValue>
+    <customValue>
+        <fullName>Trade In</fullName>
+        <default>false</default>
+        <label>Trade In</label>
+    </customValue>
+    <description>Stores values for the type of product, trade in vs Sale</description>
+    <masterLabel>Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

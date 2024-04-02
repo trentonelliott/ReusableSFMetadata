@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>OpportunityLineItem.Asset_Indicator__c</members>
+        <members>OpportunityLineItem.Asset__c</members>
+        <members>OpportunityLineItem.Asset_Status__c</members>
+        <members>OpportunityLineItem.Type__c</members>
+        <members>Asset.Number_of_Interested_Parties__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AssetStatus</members>
+        <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>Indicator_Icons</members>
+        <name>StaticResource</name>
+    </types>
+        <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+        <types>
+        <members>Type</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <version>59.0</version>
+</Package>
